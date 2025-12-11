@@ -23,9 +23,9 @@ I am a **Full Stack Developer** with great control Over the Frontend.
 Apart From Coding I am currently Involved on **Graphics Designing** and **Video Editing**.
 
 ## Quick Development Journey
-* **Currently Involved** [AMB INFOSYS](https://www.ambinfosys.com)
+* **Currently Involved** [AMB INFOSYS](https://www.ambinfosys.com)<br>
   Made with Expressjs and standard Frontend Language.<br>A commerical site for Computers & Electronics....
-* **Previous** Short Development
+* **Previous** Short Development<br>
   Non of my Old projects got chance to get deployed<br> but here's a short Idea of all of them
 
   a. **[Netra](https://github.com/rupeshram013/netra) :**
@@ -43,7 +43,7 @@ Apart From Coding I am currently Involved on **Graphics Designing** and **Video 
 ## Events
 I had only participated in a single Game Jam and was not present on different event here's the project I submitted
 
-* [Aruson](https://github.com/rupeshram013/protect-your-icecream)
+* **[Aruson](https://github.com/rupeshram013/protect-your-icecream)**<br>
   Game with basic working that invloves player to collect the ice cream and skip the stone to score. 
 
   
