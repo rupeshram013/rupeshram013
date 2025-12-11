@@ -22,8 +22,8 @@ At the time of writing this.....
 I am a **Full Stack Developer** with great control Over the Frontend.
 Apart From Coding I am currently Involved on **Graphics Designing** and **Video Editing**.
 
-## Current Development
-* [AMB INFOSYS](https://www.ambinfosys.com) <br>
+## * Current Development
+[AMB INFOSYS](https://www.ambinfosys.com) <br>
 Made with Expressjs and standard Frontend Language. It's a commerical site for Computers & Electronics....
 
 
