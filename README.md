@@ -40,6 +40,11 @@ Apart From Coding I am currently Involved on **Graphics Designing** and **Video 
   d. **[OutBox](https://github.com/rupeshram013/OutBox) :**
      First Experience with Reactjs and frontend coding without anybackend involved.<br>
 
+## Events
+I had only participated in a single Game Jam and was not present on different event here's the project I submitted
+
+* ### [Aruson](https://github.com/rupeshram013/protect-your-icecream)
+  Game with basic working that invloves player to collect the ice cream and skip the stone to score. 
 
   
 
