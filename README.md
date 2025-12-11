@@ -25,7 +25,7 @@ Apart From Coding I am currently Involved on **Graphics Designing** and **Video 
 With Artistic Thought I have been invlolved in creating some of my art for **AMB Infosys** for the last 6 months.
 My Arts were for promotional purpose only. Involving advertisement elements for the company and trying to fulfill the customer needs and providing exciting deals.
 
-## Advertisement I created
+## Arts Involved On
 ![Adevertisement](https://github.com/rupeshram013/rupeshram013/blob/85de4c4069aaf1b1094075ffd5b4721b87842b70/3%20Total%20Poster.png)
 
 ## Quick Development Journey
