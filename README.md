@@ -1,4 +1,4 @@
-## Who am I ?
+# Who am I ?
 
 <!--
 **rupeshram013/rupeshram013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-At the time of writing this.....
+## Full Stack Developer & Graphics Designer
 
-I am a Full Stack Developer with more control Over the Frontend.
+At the time of writing this.....
+I am a **Full Stack Developer** with great control Over the Frontend.
+Apart From Coding I am currently Involved on **Graphics Designing** and **Video Editing**.
+
+## Current Development
+###[AMB Infosys](https://www.ambinfosys.com)
+Made with Expressjs and standard Frontend Language. It's a commerical site for Computers & Electronics....
+
+
+
