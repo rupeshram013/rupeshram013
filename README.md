@@ -22,6 +22,12 @@ At the time of writing this.....
 I am a **Full Stack Developer** with great control Over the Frontend.
 Apart From Coding I am currently Involved on **Graphics Designing** and **Video Editing**.
 
+With Artistic Thought I have been invlolved in creating some of my art for **AMB Infosys** for the last 6 months.
+My Arts were for promotional purpose only. Involving advertisement elements for the company and trying to fulfill the customer needs and providing exciting deals.
+
+## Advertisement I created
+
+
 ## Quick Development Journey
 * **Currently Involved** [AMB INFOSYS](https://www.ambinfosys.com)<br>
   Made with Expressjs and standard Frontend Language.<br>A commerical site for Computers & Electronics....
